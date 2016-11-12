@@ -1,0 +1,39 @@
+typography_spectrum: 0.3820417100012229
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.011434773704645657
+  lightness: 0.4951387892713272
+  saturation: 0.9226358447618561
+  rhythmicContrast: 0.2037921577355465
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.6781021350988252
+author:
+  name: webmaster
+  email: hello@packetsight.com
+  url: 'http://www.packetsight.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1157d9f4-0021-4311-a1b3-ac19f526fdf4.png
+name: PacketSight
+navigation:
+  - name: Hi There!
+    id: a381f3bb-11ce-4156-9799-b993b20aaa69
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/870f96ba-3b0d-4cb1-8561-e39919b4dc50.png
+title: PacketSight
+content: []
+description: Bringing Clarity to the Cloud
+purpose:
+  - type: contact
+    url: 'mailto:hello@packetsight.com'
+    label: Email
+  - type: external
+    url: 'https://www.linkedin.com/company/packetsight-llc'
+    label: Linkedin
